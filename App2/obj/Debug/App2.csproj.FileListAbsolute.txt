@@ -1,0 +1,15 @@
+D:\lab\visualstudio\ConsoleApplication2\App2\bin\Debug\App2.exe.config
+D:\lab\visualstudio\ConsoleApplication2\App2\bin\Debug\App2.exe
+D:\lab\visualstudio\ConsoleApplication2\App2\bin\Debug\App2.pdb
+D:\lab\visualstudio\ConsoleApplication2\App2\obj\Debug\App2.csprojResolveAssemblyReference.cache
+D:\lab\visualstudio\ConsoleApplication2\App2\obj\Debug\App2.exe
+D:\lab\visualstudio\ConsoleApplication2\App2\obj\Debug\App2.pdb
+F:\ConsoleApplication2\App2\bin\Debug\App2.exe.config
+F:\ConsoleApplication2\App2\obj\Debug\App2.exe
+F:\ConsoleApplication2\App2\obj\Debug\App2.pdb
+C:\Users\Yuliya_Karabeinik\Documents\Visual Studio 2015\Projects\ConsoleApplication2\App2\bin\Debug\App2.exe.config
+C:\Users\Yuliya_Karabeinik\Documents\Visual Studio 2015\Projects\ConsoleApplication2\App2\obj\Debug\App2.exe
+C:\Users\Yuliya_Karabeinik\Documents\Visual Studio 2015\Projects\ConsoleApplication2\App2\obj\Debug\App2.pdb
+C:\Users\Yuliya_Karabeinik\Documents\Visual Studio 2015\Projects\ConsoleApplication2\App2\bin\Debug\App2.exe
+C:\Users\Yuliya_Karabeinik\Documents\Visual Studio 2015\Projects\ConsoleApplication2\App2\bin\Debug\App2.pdb
+C:\Users\Yuliya_Karabeinik\Documents\Visual Studio 2015\Projects\ConsoleApplication2\App2\obj\Debug\App2.csprojResolveAssemblyReference.cache
